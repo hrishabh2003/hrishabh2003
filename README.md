@@ -5,9 +5,6 @@
 - 📫 How to reach me **hrishabhk87@gamil.com**
 
 
-![](https://komarev.com/ghpvc/?username=Rishi-Singh23&color=blueviolet&style=plastic&align=center)
-
-
 ## ⚡ Technologies
 
 ### Language :
@@ -26,7 +23,7 @@
   ## 📊 Github Stats.
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rishi-Singh23&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Singh23&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabh2003&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh2003&theme=tokyonight" />
 </p>
 
