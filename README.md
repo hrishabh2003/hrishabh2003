@@ -1,8 +1,8 @@
-<h1 align="center">HEY 👋, I'm Rishi Singh</h1>
-- 📝Visit My Linkedin [Linkedin](https://www.linkedin.com/in/rishisingh23/)
+<h1 align="center">Namaste 👋, I'm Hrishabh Khandelwal</h1>
+- 📝Visit My Linkedin [Linkedin](https://www.linkedin.com/in/hrishabh-khandelwal-769878261/)
 
 
-- 📫 How to reach me **rishisinghblog@gmmail.com**
+- 📫 How to reach me **hrishabhk87@gamil.com**
 
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Singh23&color=blueviolet&style=plastic&align=center)
@@ -27,6 +27,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rishi-Singh23&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Singh23&theme=tokyonight" />
 </p>
-
-![snake gif](https://github.com/Rishi-Singh23/Rishi-Singh23/blob/output/github-contribution-grid-snake.gif)
 
