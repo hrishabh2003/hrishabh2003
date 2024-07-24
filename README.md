@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Hrishabh Khandelwal</h1>
-- 📝Visit My Linkedin [Linkedin](https://www.linkedin.com/in/hrishabh-khandelwal-769878261/)
+- 📝Visit My Linkedin https://www.linkedin.com/in/hrishabh-khandelwal-769878261
 
 
 - 📫 How to reach me **hrishabhk87@gamil.com**
@@ -15,10 +15,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-## daftpunktocat guy gif:
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
-<br>
-<br> 
 
   ## 📊 Github Stats.
 <p align="center">
